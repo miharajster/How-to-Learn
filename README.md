@@ -33,6 +33,6 @@ By learning C and after that C++, you will be on the fast lane to understand wha
 
 <center><img width="500" src="https://raw.githubusercontent.com/miharajster/How-to-Learn/main/lib/sasha_c.jpg"/></center>
 
-#### But how to do that without dieing of boredom?
+#### But how to do that without dying of boredom?
 Get an Arduino or RaspberryPi. If you want to learn just C++, buy an Arduino. If you want to learn a bit of LINUX on a way, buy RaspberryPi.
 
