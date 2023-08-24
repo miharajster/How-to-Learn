@@ -36,3 +36,11 @@ By learning C and after that C++, you will be on the fast lane to understand wha
 #### But how to do that without dying of boredom?
 Get an Arduino or RaspberryPi. If you want to learn just C++, buy an Arduino. If you want to learn a bit of LINUX on a way, buy RaspberryPi.
 
+## How to learn?
+People learn in different ways. I'm not really a specialist in this, but I can tell you how many geeks do it efficiently.
+
+After you know what you want to learn, you need to break it down into really small chunks. For instance, if you want to learn how to bake an egg, learn first how much oil you need to throw on the pen. If your topic is covered by roadmap.sh, great - the big chunk of that task has been done for you. If it isn't, try to find a road-map or a great Youtube tutorial that will guide you step by step (normally it shouldn't be too old, not too long and you should have something to put on your github after you are finished).
+
+So, after you know exactly what you need to learn next, go to Youtube, ask ChatGPT, Medium article or read documentation. Try to avoid Udemy and Lynda, since courses there are just too long. If you decide to go the Udemy route, look for courses that are popular and short. Don't buy massive courses. You will never finish them.
+
+The final boss in getting better in learning should be an ability to learn directly from documentation. Learning that way is the fresshes kind of learning that you can get.
