@@ -17,6 +17,11 @@ You should research what organisations need. Most of the time things don't chan
 
 So grab your LinkedIn account by the...ears (?) and do your research.
 
+#### But what do I do after I know what I want to learn?
+Visit [roadmaps.sh](https://roadmap.sh/roadmaps). Peak for instance "Frontend Developer" and go to town.
+
+Click on everything and mark things that you know. After that get on read'n this article.
+
 ### I want to learn from the ground up
 <center><img width="500" src="https://raw.githubusercontent.com/miharajster/How-to-Learn/main/lib/matrix.gif"/></center>
 
@@ -28,6 +33,4 @@ By learning C and after that C++, you will be on the fast lane to understand wha
 
 #### But how to do that without dieing of boredom?
 Get an Arduino or RaspberryPi. If you want to learn just C++, buy an Arduino. If you want to learn a bit of LINUX on a way, buy RaspberryPi.
-
-If you chose this route, you don't need the next step :).
 
