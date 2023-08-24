@@ -68,3 +68,6 @@ Final product should always be a project. That way you can put that on your CV a
 A word of what companies are looking for, but I will go into this into another article.. Companies mostly look for people that know how to build products themself, know how to learn, do what they do from the heart and most of all: Will be able to make them profit ASAP.
 
 Good luck!
+
+Want to thank me? [Visit my LinkedIn..](https://www.linkedin.com/in/miharajster/) big numbers in visitors gut!
+Also leave an endorsment or two when you are there :P
