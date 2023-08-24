@@ -44,3 +44,21 @@ After you know what you want to learn, you need to break it down into really sma
 So, after you know exactly what you need to learn next, go to Youtube, ask ChatGPT, Medium article or read documentation. Try to avoid Udemy and Lynda, since courses there are just too long. If you decide to go the Udemy route, look for courses that are popular and short. Don't buy massive courses. You will never finish them.
 
 The final boss in getting better in learning should be an ability to learn directly from documentation. Learning that way is the fresshes kind of learning that you can get.
+
+
+## What's next?
+I hope that you've enjoyed this short article.
+
+Next you should understand how you learn the fastest way possible. I've seen people that learn by reading, but I am more of the video and code examples kind of guy.
+
+Getting to know yourself and your ability to learn will definitely pay you back big time in the future.
+
+There is a word to be said on how much you can learn and what should be a final product.
+
+Normal geek that is used to sitting in front of the computer for a whole day is capable of learning a maximum of about 3 hours a day imho. More than that and you are not efficiently absorbing the information that you get.
+
+Final product should always be a project. That way you can put that on your CV and companies will love it.
+
+A word of what companies are looking for, but I will go into this into another article.. Companies mostly look for people that know how to build products themself, know how to learn, do what they do from the heart and most of all: Will be able to make them profit ASAP.
+
+Good luck!
