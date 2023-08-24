@@ -37,6 +37,9 @@ By learning C and after that C++, you will be on the fast lane to understand wha
 Get an Arduino or RaspberryPi. If you want to learn just C++, buy an Arduino. If you want to learn a bit of LINUX on a way, buy RaspberryPi.
 
 ## How to learn?
+
+<center><img width="500" src="https://raw.githubusercontent.com/miharajster/How-to-Learn/main/lib/kungfu.gif"/></center>
+
 People learn in different ways. I'm not really a specialist in this, but I can tell you how many geeks do it efficiently.
 
 After you know what you want to learn, you need to break it down into really small chunks. For instance, if you want to learn how to bake an egg, learn first how much oil you need to throw on the pen. If your topic is covered by roadmap.sh, great - the big chunk of that task has been done for you. If it isn't, try to find a road-map or a great Youtube tutorial that will guide you step by step (normally it shouldn't be too old, not too long and you should have something to put on your github after you are finished).
@@ -47,6 +50,9 @@ The final boss in getting better in learning should be an ability to learn direc
 
 
 ## What's next?
+
+<center><img width="500" src="https://raw.githubusercontent.com/miharajster/How-to-Learn/main/lib/bigbrain.jpeg"/></center>
+
 I hope that you've enjoyed this short article.
 
 Next you should understand how you learn the fastest way possible. I've seen people that learn by reading, but I am more of the video and code examples kind of guy.
