@@ -24,6 +24,8 @@ So, you learn by adding things to your understanding. That's great!
 
 By learning C and after that C++, you will be on the fast lane to understand whatever other popular language.
 
+<img width="100%" src="https://raw.githubusercontent.com/miharajster/How-to-Learn/main/lib/sasha_c.jpg"/>
+
 #### But how to do that without dieing of boredom?
 Get an Arduino or RaspberryPi. If you want to learn just C++, buy an Arduino. If you want to learn a bit of LINUX on a way, buy RaspberryPi.
 
