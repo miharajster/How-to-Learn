@@ -15,6 +15,8 @@ I bet that the first thing that you need to know is what you want to learn.
 ### Do you just want to get a job as soon as possible?
 You should research what organisations need. Most of the time things don't change that fast. Reason for that is, that organisations really (whatever they say) don't like to invest billions in upgrading the skillsets of their existing employees. Also we normally have a lot of old systems and code. To refactor them every time a new framework or idea comes to market just wouldn't be financially viable.
 
+<center><img width="500" src="https://raw.githubusercontent.com/miharajster/How-to-Learn/main/lib/money_cry.gif"/></center>
+
 So grab your LinkedIn account by the...ears (?) and do your research.
 
 #### But what do I do after I know what I want to learn?
