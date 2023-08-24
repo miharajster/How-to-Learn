@@ -16,3 +16,17 @@ I bet that the first thing that you need to know is what you want to learn.
 You should research what organisations need. Most of the time things don't change that fast. Reason for that is, that organisations really (whatever they say) don't like to invest billions in upgrading the skillsets of their existing employees. Also we normally have a lot of old systems and code. To refactor them every time a new framework or idea comes to market just wouldn't be financially viable.
 
 So grab your LinkedIn account by the...ears (?) and do your research.
+
+### I want to learn from the ground up
+<img width="100%" src="https://raw.githubusercontent.com/miharajster/How-to-Learn/main/lib/matrix.gif"/>
+
+So, you learn by adding things to your understanding. That's great!
+
+By learning C and after that C++, you will be on the fast lane to understand whatever other popular language.
+
+#### But how to do that without dieing of boredom?
+Get an Arduino or RaspberryPi. If you want to learn just C++, buy an Arduino. If you want to learn a bit of LINUX on a way, buy RaspberryPi.
+
+If you chose this route, you don't need the next step :).
+
+### 
