@@ -82,7 +82,7 @@ A word of what companies are looking for, but I will go into this into another a
 
 Good luck!
 
-<img src="https://badges.pufler.dev/visits/miharajster/How-to-Learn"/>
+<img src="https://hits.dwyl.com/miharajster/How-to-Learn.svg"/>
 
 ---
 Want to thank me? <br/>
