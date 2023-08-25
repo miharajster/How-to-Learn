@@ -1,5 +1,5 @@
 # How to Learn (to be a programmer)
-<img width="100%" src="https://raw.githubusercontent.com/miharajster/How-to-Learn/main/lib/learning_banner.jpg"/>
+<img width="100%" src="https://raw.githubusercontent.com/miharajster/How-to-Learn/main/lib/learning_banner.jpg"/><br/><small>V 1.0.0</small>
 
 - [Intro](https://github.com/miharajster/How-to-Learn#intro)
 - [What to learn?](https://github.com/miharajster/How-to-Learn#what-to-learn)
@@ -53,7 +53,7 @@ Get an Arduino or RaspberryPi. If you want to learn just C++, buy an Arduino. If
 
 People learn in different ways. I'm not really a specialist in this, but I can tell you how many geeks do it efficiently.
 
-After you know what you want to learn, you need to break it down into really small chunks. For instance, if you want to learn how to bake an egg, learn first how much oil you need to throw on the pen. If your topic is covered by roadmap.sh, great - the big chunk of that task has been done for you. If it isn't, try to find a road-map or a great Youtube tutorial that will guide you step by step (normally it shouldn't be too old, not too long and you should have something to put on your github after you are finished).
+After you know what you want to learn, you need to break it down into really small chunks. For instance, if you want to learn how to bake an egg, learn first how much oil you need to throw on the pen. If your topic is covered by [roadmaps.sh](https://roadmap.sh/roadmaps), great - the big chunk of that task has been done for you. If it isn't, try to find a road-map or a great Youtube tutorial that will guide you step by step (normally it shouldn't be too old, not too long and you should have something to put on your github after you are finished).
 
 So, after you know exactly what you need to learn next, go to Youtube, ask ChatGPT, Medium article or read documentation. Try to avoid Udemy and Lynda, since courses there are just too long. If you decide to go the Udemy route, look for courses that are popular and short. Don't buy massive courses. You will never finish them.
 
@@ -72,7 +72,9 @@ Getting to know yourself and your ability to learn will definitely pay you back 
 
 There is a word to be said on how much you can learn and what should be a final product.
 
-Normal geek that is used to sitting in front of the computer for a whole day is capable of learning a maximum of about 3 hours a day imho. More than that and you are not efficiently absorbing the information that you get.
+Normal geek that is used to sitting in front of the computer for a whole day is capable of learning a maximum of about 3 hours a day IMHO. More than that and you are not efficiently absorbing the information that you get. It's also about staying consistent, learning every day and not just sitting in front of a tutorial for 20 hours straight.
+
+My strategy is learning 1 hour a day, every day.
 
 Final product should always be a project. That way you can put that on your CV and companies will love it.
 
