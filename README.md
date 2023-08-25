@@ -80,4 +80,9 @@ A word of what companies are looking for, but I will go into this into another a
 
 Good luck!
 
-Want to thank me? [Buy me a coffee?](https://ko-fi.com/winsucker)
+Want to thank me? [☕ Buy me a coffee?](https://ko-fi.com/winsucker)
+
+Do you have job for me?
+[📄 CV](https://github.com/miharajster/cv)
+
+[<img height="16" src="https://static.licdn.com/sc/h/akt4ae504epesldzj74dzred8"/> LinkedIn](https://www.linkedin.com/in/miharajster/)
