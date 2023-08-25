@@ -1,7 +1,6 @@
 # How to Learn (to be a programmer)
 <img width="100%" src="https://raw.githubusercontent.com/miharajster/How-to-Learn/main/lib/learning_banner.jpg"/>
 
-## Table of contents
 - [Intro](https://github.com/miharajster/How-to-Learn#intro)
 - [What to learn?](https://github.com/miharajster/How-to-Learn#what-to-learn)
   - [Do you just want to get a job as soon as possible?](https://github.com/miharajster/How-to-Learn#do-you-just-want-to-get-a-job-as-soon-aspossible)
