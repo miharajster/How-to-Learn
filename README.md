@@ -1,5 +1,5 @@
 # How to Learn (to be a programmer)
-<img width="100%" src="https://raw.githubusercontent.com/miharajster/How-to-Learn/main/lib/learning_banner.jpg"/><br/><small>V 1.0.0</small>
+<img width="100%" src="https://raw.githubusercontent.com/miharajster/How-to-Learn/main/lib/learning_banner.jpg"/><br/><small>V 1.0.1</small>
 
 - [Intro](https://github.com/miharajster/How-to-Learn#intro)
 - [What to learn?](https://github.com/miharajster/How-to-Learn#what-to-learn)
@@ -81,6 +81,8 @@ Final product should always be a project. That way you can put that on your CV a
 A word of what companies are looking for, but I will go into this into another article.. Companies mostly look for people that know how to build products themself, know how to learn, do what they do from the heart and most of all: Will be able to make them profit ASAP.
 
 Good luck!
+
+[![Visits Badge](https://badges.pufler.dev/visits/miharajster/How-to-Learn)]
 
 ---
 Want to thank me? <br/>
