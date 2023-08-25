@@ -1,6 +1,16 @@
 # How to Learn (to be a programmer)
 <img width="100%" src="https://raw.githubusercontent.com/miharajster/How-to-Learn/main/lib/learning_banner.jpg"/>
 
+## Table of contents
+- [Intro](https://github.com/miharajster/How-to-Learn#intro)
+- [What to learn?](https://github.com/miharajster/How-to-Learn#what-to-learn)
+  - [Do you just want to get a job as soon as possible?](https://github.com/miharajster/How-to-Learn#do-you-just-want-to-get-a-job-as-soon-aspossible)
+    - [But what do I do after I know what I want to learn?](https://github.com/miharajster/How-to-Learn#but-what-do-i-do-after-i-know-what-i-want-to-learn)
+  - [I want to learn from the ground up](https://github.com/miharajster/How-to-Learn#i-want-to-learn-from-the-ground-up)
+    - [But how to do that without dying of boredom?](https://github.com/miharajster/How-to-Learn#but-how-to-do-that-without-dying-of-boredom)
+- [How to learn?](https://github.com/miharajster/How-to-Learn#how-to-learn)
+- [What's next?](https://github.com/miharajster/How-to-Learn#whats-next)
+
 ## Intro
 
 <img width="500" src="https://raw.githubusercontent.com/miharajster/How-to-Learn/main/lib/I_am_your_teacher.jpg"/>
