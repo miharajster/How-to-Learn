@@ -69,6 +69,4 @@ A word of what companies are looking for, but I will go into this into another a
 
 Good luck!
 
-Want to thank me? [Visit my LinkedIn..](https://www.linkedin.com/in/miharajster/) big numbers in visitors gut!
-
-Also leave an endorsement or two while you are there :P
+Want to thank me? [Buy me a coffee?](https://ko-fi.com/winsucker)
