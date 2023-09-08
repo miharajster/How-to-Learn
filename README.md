@@ -53,9 +53,9 @@ Get an Arduino or RaspberryPi. If your goal is to solely learn C++, buy an Ardui
 
 People learn in different ways. I'm not really a specialist in this, but I can tell you how many geeks do it efficiently.
 
-After you know what you want to learn, you need to break it down into really small chunks. For instance, if you want to learn how to cook an egg, learn first how much oil you need to throw on the pan. If your topic is covered by [roadmaps.sh](https://roadmap.sh/roadmaps), great - the big chunk of that task has been done for you. If it isn't, try to find a road-map or a great Youtube tutorial that will guide you step by step (normally it shouldn't be too old, not too long and you should have something to put on your Github after you are finished).
+After you know what you want to learn, you need to break it down into really small chunks. For instance, if you want to learn how to cook an egg, learn first how much oil you need to throw on the pan. If your topic is covered by [roadmaps.sh](https://roadmap.sh/roadmaps), great - the big chunk of that task has been done for you. If it isn't, try to find a road-map or a great Youtube tutorial (see [How to Learn from Youtube](https://github.com/miharajster/How-to-Learn-from-Youtube)) that will guide you step by step (normally it shouldn't be too old, not too long and you should have something to put on your Github after you are finished).
 
-So, after you know exactly what you need to learn next, go to Youtube, ask ChatGPT, Medium article or read documentation. Try to avoid Udemy and Lynda, since courses there are just too long. If you decide to take the Udemy route, look for courses that are popular and short. Don't buy massive courses. You will never finish them.
+So, after you know exactly what you need to learn next, go to Youtube (see [How to Learn from Youtube](https://github.com/miharajster/How-to-Learn-from-Youtube)), ask ChatGPT, Medium article or read documentation. Try to avoid Udemy and Lynda, since courses there are just too long. If you decide to take the Udemy route, look for courses that are popular and short. Don't buy massive courses. You will never finish them.
 
 The final boss of getting better at learning should be the ability to learn directly from documentation. Learning that way is the freshest kind of learning that you can get.
 
@@ -83,6 +83,8 @@ A word on what companies are looking for (but I will go into this into another a
 Good luck!
 
 <img src="https://hits.dwyl.com/miharajster/How-to-Learn.svg"/>
+
+You might like to know [How to Learn from Youtube](https://github.com/miharajster/How-to-Learn-from-Youtube).
 
 ---
 Want to thank me? <br/>
