@@ -10,6 +10,12 @@
 - [How to learn?](https://github.com/miharajster/How-to-Learn#how-to-learn)
 - [What's next?](https://github.com/miharajster/How-to-Learn#whats-next)
 
+
+
+https://github.com/miharajster/How-to-Learn/assets/33149554/1f16e20a-75c2-4202-8e1c-9d0dbbe9625f
+
+
+
 ## Intro
 
 <img width="500" src="https://raw.githubusercontent.com/miharajster/How-to-Learn/main/lib/I_am_your_teacher.jpg"/>
